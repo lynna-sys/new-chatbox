@@ -1,0 +1,54 @@
+[
+  {
+    "question": "How do I track my order?",
+    "answer": "Go to My Account \u2192 Orders and click \u2018Track\u2019."
+  },
+  {
+    "question": "Can I change my shipping address?",
+    "answer": "Yes\u2014only before the item ships. Contact support with your order number."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return items within 30 days in original condition."
+  },
+  {
+    "question": "How do I request a refund?",
+    "answer": "Submit a refund request under Orders \u2192 Request Refund."
+  },
+  {
+    "question": "My parcel is lost, what do I do?",
+    "answer": "Please contact our support with your order number and we\u2019ll investigate."
+  },
+  {
+    "question": "Why was my payment declined?",
+    "answer": "Check your card details or contact your bank; ensure sufficient funds."
+  },
+  {
+    "question": "How do I exchange an item?",
+    "answer": "Place a new order for the desired item and return the original one for a refund."
+  },
+  {
+    "question": "When will my order ship?",
+    "answer": "Orders usually ship within 2 business days."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Yes\u2014before it ships. Go to Orders \u2192 Cancel Order."
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to most countries. Check our shipping page for details."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click \u2018Forgot Password\u2019 on login and follow instructions."
+  },
+  {
+    "question": "How can I talk to a live agent?",
+    "answer": "Typing 'agent' will connect you to a live agent."
+  },
+  {
+    "question": "Is there a warranty on products?",
+    "answer": "Most products have a 1-year warranty\u2014see the product page."
+  }
+]
